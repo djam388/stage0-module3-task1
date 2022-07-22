@@ -11,7 +11,7 @@ public class UpdatedApp {
         System.out.print("can ");
         System.out.print("write ");
         System.out.print("to ");
-        System.out.print("console ");
+        System.out.println("console");
 
     }
 }

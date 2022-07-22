@@ -6,6 +6,7 @@ public class PrintSentenceApp {
         System.out.print("is ");
         System.out.print("my ");
         System.out.print("first ");
+        System.out.print("Java ");
         System.out.println("program");
 
         //This is my first Java program
